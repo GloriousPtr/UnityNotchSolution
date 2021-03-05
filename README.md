@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href=""><img alt="platforms" src="https://img.shields.io/badge/platform-Unity-blue?style=flat-square%22/></a>
+  <a href=""><img alt="platforms" src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square"/></a>
+  <img alt="GitHub" src="https://img.shields.io/github/license/MohitSethi99/UnityNotchSolution?color=blue&style=flat-square">
   <br/>
 </p>
 
