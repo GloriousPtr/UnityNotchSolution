@@ -4,8 +4,6 @@
 
 <p align="center">
   <a href=""><img alt="platforms" src="https://img.shields.io/badge/platform-Unity-blue?style=flat-square%22/></a>
-  <img alt="GitHub" src="https://img.shields.io/github/license/MohitSethi99/UnityNotchSolution?color=blue&style=flat-square">
-  <a href=""><img alt="size" src="https://img.shields.io/github/repo-size/MohitSethi99/UnityNotchSolution?style=flat-square"/></a>
   <br/>
 </p>
 
@@ -29,12 +27,14 @@ Packages	  : Device Simulator (For testing inside editor)
 
 <p align="center">
     <img height="360" src="Documentation/NotchIssue.jpg" alt="NotchIssue" />
-    Notch issue.
+    <br>
+    Notch issue
 </p>
 
 <p align="center">
     <img height="360" src="Documentation/NotchSolution.jpg" alt="NotchSolution" />
-    Notch Solution.
+    <br>
+    Notch Solution
 </p>
 
 
@@ -48,5 +48,6 @@ Packages	  : Device Simulator (For testing inside editor)
 
 <p align="center">
     <img height="360" src="Documentation/Config.jpg" alt="Config" />
-    Config.
+    <br>
+    Config
 </p>
