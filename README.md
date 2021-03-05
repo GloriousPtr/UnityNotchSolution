@@ -17,7 +17,7 @@ Thanks for checking out the project!
 Current status at a glance:
 ```
 Unity version: 2019.4.21f1 LTS
-Packages	  : Device Simulator (For testing inside editor)
+Packages	   : Device Simulator (For testing inside editor)
 ```
 
 
