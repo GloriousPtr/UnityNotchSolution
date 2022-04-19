@@ -3,22 +3,15 @@
 </h1>
 
 <p align="center">
-  <a href=""><img alt="platforms" src="https://img.shields.io/badge/platform-Unity-blue?style=flat-square"/></a>
+  <img alt="platforms" src="https://img.shields.io/badge/platform-Unity-blue?style=flat-square"/>
   <img alt="GitHub" src="https://img.shields.io/github/license/MohitSethi99/UnityNotchSolution?color=blue&style=flat-square">
+  <img alt="size" src="https://img.shields.io/github/repo-size/MohitSethi99/UnityNotchSolution?style=flat-square"/>
   <br/>
 </p>
 
-Thanks for checking out the project!
+## Prerequisites
 
-> This framework will remain `Open Source`
-
-## Status and prerequisites
-
-Current status at a glance:
-```
-Unity version: 2019.4.21f1 LTS
-Packages     : Device Simulator (For testing inside editor)
-```
+Packages : Device Simulator (For testing inside editor)
 
 
 ## Features
