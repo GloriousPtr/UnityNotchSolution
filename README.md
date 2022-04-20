@@ -1,8 +1,11 @@
-<h1 align="center" style="border-bottom: none;">
+<h1 align="left" style="border-bottom: none;">
   <a href="https://github.com/MohitSethi99/UnityNotchSolution/">Unity Notch Solution</a>
 </h1>
 
-<p align="center">
+[![Build Status](https://github.com/MohitSethi99/UnityNotchSolution/workflows/build/badge.svg)](https://github.com/MohitSethi99/UnityNotchSolution/actions?workflow=build)
+[![CodeFactor](https://www.codefactor.io/repository/github/mohitsethi99/unitynotchsolution/badge)](https://www.codefactor.io/repository/github/mohitsethi99/unitynotchsolution)
+
+<p align="left">
   <img alt="platforms" src="https://img.shields.io/badge/platform-Unity-blue?style=flat-square"/>
   <img alt="GitHub" src="https://img.shields.io/github/license/MohitSethi99/UnityNotchSolution?color=blue&style=flat-square">
   <img alt="size" src="https://img.shields.io/github/repo-size/MohitSethi99/UnityNotchSolution?style=flat-square"/>
