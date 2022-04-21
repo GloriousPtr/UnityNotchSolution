@@ -36,7 +36,7 @@ Packages : Device Simulator (For testing inside editor)
 
 
 ## Setting Up
-
+- Grab the latest release from [Here](https://github.com/MohitSethi99/UnityNotchSolution/releases) and import it.
 - Make a new gameObject as the child of Background image in the panel and rename it to SafeAreaHolder.
 - Attach The SafeArea Script To SafeAreaHolder gameObject.
 - Shift all your UI gameObjects inside the SafeAreaHolder gameObject making them the children of SafeAreaHolder.
